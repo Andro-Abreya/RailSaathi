@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927455723217",
+    "project_id": "railsaathi-6ecca",
+    "storage_bucket": "railsaathi-6ecca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927455723217:android:4a4b3e7e84d88d03494ff0",
+        "android_client_info": {
+          "package_name": "com.example.ra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ljFkEpMMlXp1tLAmmEAD1Z2g86Apbiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
